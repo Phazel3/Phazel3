@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Phazel3
-- 👀 I’m interested in coding, design, learning
-- 🌱 I’m currently learning HTML, CSS, C/C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in lvl up in coding and design
+- 🌱 I’m currently learning HTML, python
+- 📫 phazel351@gmail.com
 
 <!---
 Phazel3/Phazel3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
